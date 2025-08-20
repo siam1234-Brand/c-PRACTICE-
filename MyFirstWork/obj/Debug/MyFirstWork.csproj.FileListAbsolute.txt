@@ -1,0 +1,7 @@
+C:\Users\Nayem\source\repos\C#1\MyFirstWork\bin\Debug\MyFirstWork.exe.config
+C:\Users\Nayem\source\repos\C#1\MyFirstWork\bin\Debug\MyFirstWork.exe
+C:\Users\Nayem\source\repos\C#1\MyFirstWork\bin\Debug\MyFirstWork.pdb
+C:\Users\Nayem\source\repos\C#1\MyFirstWork\obj\Debug\MyFirstWork.csproj.AssemblyReference.cache
+C:\Users\Nayem\source\repos\C#1\MyFirstWork\obj\Debug\MyFirstWork.csproj.CoreCompileInputs.cache
+C:\Users\Nayem\source\repos\C#1\MyFirstWork\obj\Debug\MyFirstWork.exe
+C:\Users\Nayem\source\repos\C#1\MyFirstWork\obj\Debug\MyFirstWork.pdb

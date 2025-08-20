@@ -1,0 +1,7 @@
+C:\Users\Nayem\source\repos\C#1\structure_student\bin\Debug\structure_student.exe.config
+C:\Users\Nayem\source\repos\C#1\structure_student\bin\Debug\structure_student.exe
+C:\Users\Nayem\source\repos\C#1\structure_student\bin\Debug\structure_student.pdb
+C:\Users\Nayem\source\repos\C#1\structure_student\obj\Debug\structure_student.csproj.AssemblyReference.cache
+C:\Users\Nayem\source\repos\C#1\structure_student\obj\Debug\structure_student.csproj.CoreCompileInputs.cache
+C:\Users\Nayem\source\repos\C#1\structure_student\obj\Debug\structure_student.exe
+C:\Users\Nayem\source\repos\C#1\structure_student\obj\Debug\structure_student.pdb
